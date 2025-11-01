@@ -4,7 +4,7 @@ An exhaustive, end-to-end data science project that performs a deep exploratory 
 
 ---
 
-## 📁 Professional Project Structure
+## 📁 Project Structure
 
 ```
 Telco-Customer-Churn/
@@ -124,3 +124,5 @@ The XGBoost Classifier delivered the best performance, validating the insights f
     ```bash
     jupyter notebook
     ```
+Suggestions and feedback are always welcome.
+Project developed by Anirudh Singla
